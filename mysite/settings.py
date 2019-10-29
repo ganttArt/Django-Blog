@@ -41,8 +41,6 @@ INSTALLED_APPS = [
     'blogging',
 
     # for facebook login
-    # 'django.contrib.auth',
-    # 'django.contrib.messages',
     'django.contrib.sites',
     'allauth',
     'allauth.account',
